@@ -1,22 +1,3 @@
-infrastructure:
-  override:
-
-checkout
-  override:
-
-
-machine
-  override:
-
-dependencies
-  override:
-
-database
-  override:
-
-teardown
-  override:
-
 compile:
   pre:
     - sbt clean
