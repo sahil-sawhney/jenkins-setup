@@ -2,5 +2,5 @@
 Just setting up jenkins and github integration
 
 
-this is temprary
+this is temporary
 
