@@ -1,10 +1,4 @@
 # jenkins-setup
 Just setting up jenkins and github integration
 
-Build 10
-
-Build 11
-
-Build 14
-
-Build 15
+Build 15 initiated
