@@ -2,7 +2,9 @@ database:
   override:
     - echo "Skipping DB section."
 
-
+dependencies:
+  override:
+    - echo "Skipping dependencies section."
 
 compile:
   pre:
@@ -16,7 +18,5 @@ compile:
 test:
   override:
     - sbt test
-#  post:
-#    - sbt it:compile
- 
+
  
