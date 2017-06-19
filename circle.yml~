@@ -2,9 +2,7 @@ database:
   override:
     - echo "Skipping DB section."
 
-dependencies:
-  override:
-    - echo "Skipping dependencies section."
+
 
 compile:
   pre:
